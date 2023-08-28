@@ -18,7 +18,7 @@ const config = createConfig(
     appName: "AlamoSwap",
 
     // Optional
-    appDescription: "A Next.js demo app for 0x Swap API and ConnectKit",
+    appDescription: "AlamoSwap DeFi",
   })
 );
 
